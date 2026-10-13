@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://kalyanvadithya.github.io/vadithya-kalyan-portfolio/sitemap.xml
