@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Vadithya Kalyan', location: 'Hyderabad, India',
-  github: 'https://github.com/Kalyanlucky1', linkedin: 'https://www.linkedin.com/in/vadithya-kalyan-3a6676170',
+  github: 'https://github.com/KalyanVadithya', linkedin: 'https://www.linkedin.com/in/vadithya-kalyan-3a6676170',
   email: '', resume: '', cgpa: '6.85', showCgpa: false,
   postgraduate: {visible: false, institution: 'University of Surrey', programme: 'Data Science with Professional Postgraduate Year MSc', status: 'Previously reported unconditional offer; enrolment unconfirmed', plannedStart: '2026-09-21', expectedEnd: '2028-09-21'}
 };
